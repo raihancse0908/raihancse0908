@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Md. Abu Raihan</h1>
-<h3 align="center">I am FullStack Web Developer from Bangladesh.</h3>
+<h3 align="center">FullStack Web Developer from Bangladesh.</h3>
 
-- 👀 I’m interested in PHP, MySQL, Codeilgniter, Laravel
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+- 👀 I’m interested in PHP, MySQL, Codeilgniter, Laravel, Symfony.
 - 🌱 I’m currently learning Laravel PHP framework.
-- 💞️ I love to sing and watch movie at my leisure time.
-- 📫 If you need custom web application in PHP, MySQL, you can contact with me. Email: raihan.cse08@gmail.com
+- 💞️ I love to sing and watch movies in my leisure time.
+- 📫 If you need custom web application in PHP, MySQL, Javascript, you can contact with me. 
+- 👨‍💻 Email: raihan.cse08@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
