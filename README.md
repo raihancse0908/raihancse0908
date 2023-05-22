@@ -34,7 +34,7 @@ I'm constantly improving, and routinely teach myself APIs, frameworks, and even 
 If you are looking for a highly skilled and experienced web expert with deep knowledge, a professional attitude, excellent communication skills, and the highest code quality, then I’m the right person. <br>
 <br>
 Portfolio Link - https://raihancse0908.github.io<br>
-Email - raihan.cse08@gmail.com<br>
+Email - <a href="mailto:raihan.cse08@gmail.com">raihan.cse08@gmail.com</a><br>
 Skype - raihan.ahmed08<br>
 <br>
 Contact me for the demo project link. <br>
