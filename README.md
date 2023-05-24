@@ -6,7 +6,7 @@ I am a skilled Web Application Developer with around 8+ years of experience in W
 My objective is to work with such an organization where I can grow my career and prove myself as a sincere employee. The organization that will choose me as one of their team will be able to bring out the best in me for their own advantage.<br>
 Currently, I am working at General Pharmaceuticals Ltd., the largest pharmaceuticals industry in Bangladesh where I am specialized in software analysis and development from front-end design to backend web development with optimization.<br>
 <br>
-Project/Work Experience-<br>
+Project/Work Experience -<br>
 • e-Banking Solutions like Customer/Nominee/Guarantor Information, Credit Facility, Mortgage/Loan Security Management, etc.<br>
 • e-Commerce Applications like Product Upload, Inventory, Stock, Sales POS Invoicing, etc.<br>
 • Booking/Schedule Management<br>
@@ -19,7 +19,7 @@ Project/Work Experience-<br>
 • Asset/Property Management<br>
 • SMS/Email/Payment Gateway Integration, etc.<br>
 <br>
-Software/Tools Experience-<br>
+Technical Skills -<br>
 • Proficient in PHP, MySQL, Javascript, jQuery, AJAX, HTML, CSS, Bootstrap<br>
 • Familiar with JSON, XML, RESTful & SOAP Services<br>
 • Frameworks: CodeIgniter, Laravel, Symfony<br>
