@@ -4,6 +4,8 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <br>
 I am a skilled Web Application Developer with around 8+ years of experience in Web development and Database Management using PHP, MySQL, Oracle, JavaScript, jQuery, AJAX, Laravel, Symfony, CodeIgniter, WordPress, etc. <br>
+My objective is to work with such an organization where I can grow my career and prove myself as a sincere employee. The organization that will choose me as one of their team will be able to bring out the best in me for their own advantage.<br>
+Currently, I am working at General Pharmaceuticals Ltd., the largest pharmaceuticals industry in Bangladesh where I am specialized in software analysis and development from front-end design to backend web development with optimization.<br>
 <br>
 Project/Work Experience-<br>
 • e-Banking Solutions like Customer/Nominee/Guarantor Information, Credit Facility, Mortgage/Loan Security Management, etc.<br>
