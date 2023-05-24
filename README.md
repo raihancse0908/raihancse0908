@@ -1,8 +1,7 @@
 <h1 align="center">Md. Abu Raihan</h1>
 <h3 align="center">Professional Web Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<br>
+<img align="right" alt="developer" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 I am a skilled Web Application Developer with around 8+ years of experience in Web development and Database Management using PHP, MySQL, Oracle, JavaScript, jQuery, AJAX, Laravel, Symfony, CodeIgniter, WordPress, etc. <br>
 My objective is to work with such an organization where I can grow my career and prove myself as a sincere employee. The organization that will choose me as one of their team will be able to bring out the best in me for their own advantage.<br>
 Currently, I am working at General Pharmaceuticals Ltd., the largest pharmaceuticals industry in Bangladesh where I am specialized in software analysis and development from front-end design to backend web development with optimization.<br>
@@ -38,13 +37,13 @@ If you are looking for a highly skilled and experienced web expert with deep kno
 Contact me for the demo project link. <br>
 Thank you for your time.<br>
 <br>
-Regards,
+Regards,<br>
 M.A. Raihan<br>
 Email - <a href="mailto:raihan.cse08@gmail.com">raihan.cse08@gmail.com</a><br>
 Skype - raihan.ahmed08<br>
 Portfolio Link - https://raihancse0908.github.io<br>
 Linkedin Profile - https://www.linkedin.com/in/raihancse0908<br>
-Facebook Link - https://facebook.com/raihancse0908<br>
+Facebook Profile - https://facebook.com/raihancse0908<br>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
