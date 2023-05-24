@@ -35,14 +35,17 @@ I utilize the latest object-oriented analysis and design principles such as enca
 I'm constantly improving, and routinely teach myself APIs, frameworks, and even entire languages depending on what the challenge calls for. <br>
 If you are looking for a highly skilled and experienced web expert with deep knowledge, a professional attitude, excellent communication skills, and the highest code quality, then I’m the right person. <br>
 <br>
-Portfolio Link - https://raihancse0908.github.io<br>
-Email - <a href="mailto:raihan.cse08@gmail.com">raihan.cse08@gmail.com</a><br>
-Skype - raihan.ahmed08<br>
-<br>
 Contact me for the demo project link. <br>
 Thank you for your time.<br>
 <br>
-
+Regards,
+M.A. Raihan<br>
+Email - <a href="mailto:raihan.cse08@gmail.com">raihan.cse08@gmail.com</a><br>
+Skype - raihan.ahmed08<br>
+Portfolio Link - https://raihancse0908.github.io<br>
+Linkedin Profile - https://www.linkedin.com/in/raihancse0908<br>
+Facebook Link - https://facebook.com/raihancse0908<br>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/raihancse0908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taslimul-islam-b9522a190" height="30" width="40" /></a>
