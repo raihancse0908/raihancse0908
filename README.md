@@ -7,28 +7,27 @@ My objective is to work with such an organization where I can grow my career and
 Currently, I am working at General Pharmaceuticals Ltd., the largest pharmaceuticals industry in Bangladesh where I am specialized in software analysis and development from front-end design to backend web development with optimization.<br>
 <br>
 Project/Work Experience -<br>
-• e-Banking Solutions like Customer/Nominee/Guarantor Information, Credit Facility, Mortgage/Loan Security Management, etc.<br>
-• e-Commerce Applications like Product Upload, Inventory, Stock, Sales POS Invoicing, etc.<br>
-• Booking/Schedule Management<br>
-• Purchase/Raw Materials/Production Management<br>
-• Finished Goods/Inventory/Stock Management<br>
-• Sales/POS Invoicing/Delivery Management<br>
-• Finance/Account Management<br>
+• e-Commerce Applications - Production/Purchase Process, Raw Materials/Finished Goods Stock, Inventory/Sales/POS Invoicing and Order Delivery Management, etc.<br>
+• e-Banking Solutions - Customer/Nominee/Guarantor Information, Credit Facility/Loan Security/Mortgage Management, etc.<br>
 • Human Resource Management<br>
 • Customer Relationship Management<br>
+• Booking/Schedule Management<br>
+• Finance/Accounting Module<br>
 • Asset/Property Management<br>
 • SMS/Email/Payment Gateway Integration, etc.<br>
 <br>
 Technical Skills -<br>
-• Proficient in PHP, MySQL, Javascript, jQuery, AJAX, HTML, CSS, Bootstrap<br>
-• Familiar with JSON, XML, RESTful & SOAP Services<br>
+• Proficient in: PHP, MySQL, jQuery, HTML, CSS, JavaScript, Bootstrap, DataTables<br>
+• Familiar with: AJAX, JSON, XML, JWToken, RESTful Web Services, SOAP Server,<br>
+React/Vue/Angular JS, Doctrine/Eloquent ORM, MVC/HMVC, LESS/SASS, Twig/Blade<br>
+Template Engine, Redis Cache, PHPMailer, PHPoffice, jQWidgets, Webpack<br>
+• Database: MySQL, MariaDB, Oracle, PostgreSQL, MongoDB<br>
+• Development Tools: LAMPP, Apache, WinSCP, Putty, cPanel, Filezilla, SSH/SFTP,<br>
+phpMyAdmin, SQLyog, Toad, Tortoise SVN, Git, Bitbucket, JIRA, NPM, Composer<br>
 • Frameworks: CodeIgniter, Laravel, Symfony<br>
-• Content Management Systems: WordPress, Joomla, Drupal<br>
-• Web Tools: Apache, WAMP, LAMP, WinSCP, Putty, CPanel, Filezilla<br>
-• Database Tools: MySQL, MariaDB, Oracle, Toad, phpMyAdmin, SQLyog<br>
-• IDE Tools: Sublime Text, VS Code, Notepad++<br>
-• Version Control: Tortoise SVN, Git, Bitbucket, JIRA<br>
-• Platforms: Microsoft Windows, Linux Ubuntu<br>
+• CMS: Wordpress, Joomla<br>
+• IDE: Sublime Text, VS Code, PhpStorm<br>
+• OS: Microsoft Windows, Linux Ubuntu<br>
 <br>
 I utilize the latest object-oriented analysis and design principles such as encapsulation, design patterns, and refactoring to make clean, reusable code and still make it a goal to read regularly about the latest programming technologies. <br>
 I'm constantly improving, and routinely teach myself APIs, frameworks, and even entire languages depending on what the challenge calls for. <br>
@@ -41,7 +40,7 @@ Regards,<br>
 M.A. Raihan<br>
 Email - <a href="mailto:raihan.cse08@gmail.com">raihan.cse08@gmail.com</a><br>
 Skype - raihan.ahmed08<br>
-Portfolio Link - https://raihancse0908.github.io<br>
+Web Profile Link - https://raihancse0908.github.io<br>
 Linkedin Profile - https://www.linkedin.com/in/raihancse0908<br>
 Facebook Profile - https://facebook.com/raihancse0908<br>
 <br>
